@@ -4,6 +4,7 @@ public Class Demo
  {
    System.out.print("Hello World");
    System.out.print("How are you");
+   System.out.print("How do you do");
    
  }
 
